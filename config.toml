@@ -1,4 +1,3 @@
 baseURL = 'https://balmabrian.github.io/notebook'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "book"
+title = 'Notebook'
